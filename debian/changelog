@@ -1,0 +1,11 @@
+adbfs (0.0.0-0~rzr1) unstable; urgency=low
+
+  * fix install
+
+ -- Philippe Coval <rzr@gna.org>  Wed, 14 Dec 2011 13:11:26 +0100
+
+adbfs (0.0.0-0) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Philippe Coval <rzr@gna.org>  Wed, 14 Dec 2011 13:00:21 +0100
