@@ -1,0 +1,16 @@
+Source: adbfs
+Section: unknown
+Priority: extra
+Maintainer: Philippe Coval <rzr@users.sf.net>
+Build-Depends: debhelper (>= 8.0.0)
+ , libfuse-dev
+Standards-Version: 3.9.2
+Homepage: https://github.com/rzr/adbFS
+#Vcs-Git: git://git.debian.org/collab-maint/adbfs.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/adbfs.git;a=summary
+
+Package: adbfs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
